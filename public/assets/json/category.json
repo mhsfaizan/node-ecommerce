@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "category": "Men",
+      "subCategories": [
+            "Formal Shirts",
+            "Casual Shirts",
+            "T-Shirts",
+            "Jeans"
+        ]
+    },
+    {
+      "id": 2,
+      "category":"Women",
+      "subCategories": [
+            "T-shirts",
+            "Tops",
+            "Heels"
+        ]
+    },
+    {
+      "id": 3,
+      "category": "Kids",
+      "subCategories": [
+            "T-shirts",
+            "Tops",
+            "Jeans"
+        ]
+    }
+]
